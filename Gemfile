@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem "jekyll-theme-chirpy", "~> 5.5", ">= 5.5.2"
+gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 gem "nokogiri", "~> 1.13.10"
 
 
